@@ -1,0 +1,12 @@
+{
+    "elements": {
+        "p": {},
+        "h3": {},
+        "h6": {}
+    },
+    "attributes": {
+        "integrity": {
+            "context": "link"
+        }
+    }
+}
